@@ -1,4 +1,4 @@
-package com.wipro.java.oops;
+package com.wipro.java.oops.abstraction;
 
 // Abstract class Car defining blueprint for derived classes
 public abstract class Car {
