@@ -1,7 +1,7 @@
 /**
  * Employee POJO class demonstrating encapsulation.
  */
-package com.wipro.java.oops;
+package com.wipro.java.oops.inheritance;
 
 /**
  * @author Pratik1311
