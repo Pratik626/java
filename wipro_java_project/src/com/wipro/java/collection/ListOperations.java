@@ -5,7 +5,6 @@ import java.util.List;
 
 class ListOperations {
 
-	
 	// Main driver method 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
